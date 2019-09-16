@@ -1,3 +1,4 @@
 console.log('hey broh........')
 
-conso.log('hello thiz is sai')
+console.log('hello thiz is sai')
+
